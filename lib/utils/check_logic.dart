@@ -71,7 +71,7 @@ class CheckLogic{
                 context: context,
                 builder: (BuildContext) {
                   return Text(
-                          "It's seems like you are not an active member, if it's a mistake, send us your query with selected problem given in drop down menu below.");
+                          "It's seems like you are not an active member.");
                 });
             // Handle the case when the user is not found or isActive is not true
             // You can show a message or take appropriate action

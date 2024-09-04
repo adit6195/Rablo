@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "289221288085",
+    "project_id": "rablo-d5e2e",
+    "storage_bucket": "rablo-d5e2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289221288085:android:7e9b994151de8f5e9b7b9c",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcIBiFG7JziS35-tq1X99W6ebjCrc5204"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289221288085:android:c3c0dacd692a757c9b7b9c",
+        "android_client_info": {
+          "package_name": "com.example.rablo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcIBiFG7JziS35-tq1X99W6ebjCrc5204"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

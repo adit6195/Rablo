@@ -1,0 +1,5 @@
+package com.example.rablo
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()

@@ -36,7 +36,7 @@ class _HomeScreenState extends State<HomeScreen> {
             onPressed: () async {
               await FirebaseAuth.instance.signOut();
               var prefs = await SharedPreferences.getInstance();
-              prefs.setBool("isLoggedIn", true);
+              prefs.setBool("isLoggedIn", false);
               Navigator.pushReplacement(context,
   MaterialPageRoute(
     builder: (context) => LoginScreen()
